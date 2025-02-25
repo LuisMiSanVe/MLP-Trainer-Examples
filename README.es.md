@@ -21,7 +21,7 @@ Antes que nada, necesitas poder abrir/ejecutar estos scripts, para ello, puedes 
   py -m pip install jupyter
   ```
 - **VS Code**:
-  Ve al Marketplace ei nstala las extensiones de [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) y [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+  Ve al Marketplace e instala las extensiones de [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) y [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 
 Para ejecutar los scripts, tanto en consola como en un IDE, **debes** instalar las siguientes dependencias en una terminal:
 ```
