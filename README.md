@@ -1,5 +1,5 @@
 > [See in spanish/Ver en español](https://github.com/LuisMiSanVe/MLP-Trainer-Examples/blob/main/README.es.md)
-# 🧠 MPL Trainer Examples
+# 🧠 MLP Trainer Examples
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
